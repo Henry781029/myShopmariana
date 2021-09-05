@@ -1,0 +1,2 @@
+# myShopmariana
+proyecto programacion avanzada
